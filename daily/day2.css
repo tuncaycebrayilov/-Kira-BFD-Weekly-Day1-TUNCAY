@@ -1,0 +1,53 @@
+ .container {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+ }
+ .blue {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+ }
+ .yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+ }
+
+
+ .hello {
+    background-color: red;
+    color: white;
+ }
+
+ .hello2 {
+    background-color: green;
+    font-size: 30px;
+    letter-spacing: 1rem;
+
+ }
+
+
+ .hello3 {
+    background-color: orange;
+    color: blue;
+    font-size: 15px;
+ }
+
+
+
+ .photo {
+    width: 400px;
+    border-radius: 40%;
+ }
+
+ .photo2 {
+    width: 400px;
+    border-radius: 60%;
+ }
+
+
+ .photo3 {
+    width: 400px;
+    border-radius: 30% ;
+ }
